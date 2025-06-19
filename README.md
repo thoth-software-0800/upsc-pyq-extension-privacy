@@ -104,8 +104,7 @@ We may update this privacy policy from time to time. We will notify you of any s
 ## Contact Us
 
 If you have questions or concerns about this privacy policy or your data, please contact us:
-- Email: [your-email@example.com]
-- GitHub Issues: https://github.com/[yourusername]/PYQExtension/issues
+- Email: [softwarethoth@gmail.com]
 
 ## Consent
 
